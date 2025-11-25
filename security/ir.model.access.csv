@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_transport_truck_user,access.transport.truck.user,model_transport_truck,,1,1,1,1
+access_transport_package_user,access.transport.package.user,model_transport_package,,1,1,1,1
+access_transport_tracking_user,access.transport.tracking.user,model_transport_tracking,,1,1,1,1

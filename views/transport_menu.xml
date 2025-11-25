@@ -1,0 +1,3 @@
+<odoo>
+    <menuitem id="menu_transport_root" name="Gestión de Camiones" sequence="10"/>
+</odoo>
