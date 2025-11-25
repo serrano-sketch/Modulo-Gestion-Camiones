@@ -33,6 +33,3 @@ Instalación y uso:
 5. Registrar paquetes y añadir sus actualizaciones desde el cuaderno Actualizaciones.
 6. Asignar paquetes a camiones desde la vista del camión o del paquete; al cambiar un conductor,
    el histórico se completa automáticamente.
-
-Con esta información otro desarrollador puede entender el funcionamiento del módulo y continuar
-su extensión sin necesidad de revisar el código completo.
