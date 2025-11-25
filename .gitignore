@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+*.pot
+*.log
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.iml
